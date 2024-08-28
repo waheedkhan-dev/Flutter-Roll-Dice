@@ -1,4 +1,4 @@
-# roll_dice
+# Roll Dice
 
 A new Flutter project.
 
